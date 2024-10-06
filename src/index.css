@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-custom-blue {
+  color: #477be4 !important;
+}
